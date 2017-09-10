@@ -1,5 +1,5 @@
 # Tachyons Helpful Classes
-###### Star this repo :star:
+##### Star this repo :star:
 > Note: this is a personal preference on what I would use in Tachyons, which classes I feel like are most useful.
 
 **If you think theres important classes that I missed or you have a question please feel free to open and issue**
@@ -112,7 +112,6 @@
   - -100 = literal value 100%
   - -third      = 100% / 3 (Not supported in opera mini or IE8)
   - -two-thirds = 100% / 1.5 (Not supported in opera mini or IE8)
-  - -auto       = string value auto
 
     - .h1 { height: 1rem; }
     - .h2 { height: 2rem; }
