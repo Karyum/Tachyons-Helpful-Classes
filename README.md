@@ -2,7 +2,7 @@
 ##### Star this repo :star:
 > Note: this is a personal preference on what I would use in Tachyons, which classes I feel like are most useful.
 
-**If you think theres important classes that I missed or you have a question please feel free to open and issue**
+**If you think theres important classes that I missed or you have a question please feel free to raise an issue**
 
 
 
