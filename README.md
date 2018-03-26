@@ -76,8 +76,12 @@
   - .tj { text-align: justify; }
   - .center { margin-right: auto; margin-left: auto; }
 
-
-  > I personally don't use flex box but [heres](https://github.com/tachyons-css/tachyons/blob/master/css/tachyons.css#L681) a link for it
+ - .flex { display: flex; }
+ - .flex-column { flex-direction: column; }
+ - .flex-row { flex-direction: row; }
+ - .flex-wrap|nowrap { flex-wrap: wrap|nowrap; }
+ - .justify-center|start|end|around|between { justify-content: center|start|end|around|between; }
+ - .align-center/end/start { align-items: center/end/start; }
 
 #### Height and Widths:
  - Base:
